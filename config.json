@@ -1,0 +1,15 @@
+{
+  "SMTP_EMAIL": "nguyhiemchetnguoi@0x1115.org",
+  "SMTP_PASSWORD": "daylapasswordratphuctap",
+  "SMTP_SERVER": "192.168.10.100",
+  "SMTP_PORT": 25,
+  "SMS_API": "",
+  "SMS_USER": "",
+  "SMS_PASSWORD": "",
+  "LISTEN": ":8080",
+  "DEFAULT_EMAIL": "hieuht@0x1115.org",
+  "DEFAULT_FULLNAME": "Hieu Ha Trung",
+  "DEFAULT_PHONE": "113,114,115",
+  "TIME_START_WORK": 8,
+  "TIME_STOP_WORK": 18
+}
